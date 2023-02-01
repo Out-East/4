@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\bin\Debug\net6.0\4 Elednevnik.exe
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\bin\Debug\net6.0\4 Elednevnik.deps.json
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\bin\Debug\net6.0\4 Elednevnik.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\bin\Debug\net6.0\4 Elednevnik.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\bin\Debug\net6.0\4 Elednevnik.pdb
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\refint\4 Elednevnik.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.pdb
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\4 Elednevnik.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\4 Elednevnik\4 Elednevnik\obj\Debug\net6.0\ref\4 Elednevnik.dll
